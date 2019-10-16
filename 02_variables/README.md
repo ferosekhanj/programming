@@ -6,8 +6,8 @@ The video is available in
 
 https://youtu.be/IKobAXwZ79c
 
-and code is available in
+and slides are available in
 
-https://github.com/ferosekhanj/programming/
+https://www.slideshare.net/ferosekhanj/02-variables
 
 Ferose Khan J
